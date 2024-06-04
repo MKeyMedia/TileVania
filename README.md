@@ -1,0 +1,1 @@
+This game was made by me from follwinng the Tilevania tutorial, found on GameDev.tv "Create Your Own 2D Games Using Unity C#". The game is a 2s platformer made in Unity with the aid of the auto tile map system. The art was provided by the lectorers at GameDev.Tv.
